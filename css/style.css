@@ -1,0 +1,21 @@
+* {	
+	font-family: 'Josefin Slab', serif; 
+}
+
+.logo {
+	margin: 10px 0 10px 0;
+}
+
+.identity {
+	margin: 15px 0 5px 0;
+}
+
+.ulogo-modified{
+	height : 100px;
+	width :  100px;
+}
+
+.img-size-modified{
+	height: 220px;
+	width: 400px;
+}
